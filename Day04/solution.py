@@ -6,6 +6,7 @@ def part_1(fp:str) -> int:
 
     Args:
         fp (string): input filepath
+
     Returns:
         Integer: total number of removable boxes
     """
@@ -42,6 +43,7 @@ def part_2(fp:str) -> int:
 
     Args:
         fp (string): input filepath
+
     Returns:
         Integer: total number of removable boxes
     """

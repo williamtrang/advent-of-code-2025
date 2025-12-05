@@ -5,6 +5,7 @@ def part_1(fp: str) -> int:
 
     Args:
         fp (string): input filepath
+
     Returns:
         Integer: sum of battery joltages (largest subsequences)
     """
@@ -33,6 +34,7 @@ def part_2(fp:str, num_batteries:int=12) -> int:
     Args:
         fp (string): input filepath
         num_batteries (integer): number of batteries to turn on (length of subsequence)
+
     Returns:
         Integer: sum of battery joltages (largest subsequences)
     """

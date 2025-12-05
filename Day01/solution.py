@@ -10,6 +10,7 @@ def part_1(data: Sequence[str]) -> int:
 
     Args:
         data (Sequence): Array-like of dial rotations
+
     Returns:
         Integer: count of times dial ends at 0
     """
@@ -38,6 +39,7 @@ def part_2(data: Sequence[str]) -> int:
 
     Args:
         data (Sequence): Array-like of dial rotations
+
     Returns:
         Integer: count of times 0 is passed on the dial
     """
